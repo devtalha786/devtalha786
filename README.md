@@ -1,9 +1,6 @@
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/talha.zia.520900) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/italha_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/talhazia77/]) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/TalhaZia) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Muhammad-Talha-Zia-2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Emotional-Avocado516) 
-
 Hello, nerds
 
-I believe in writing clean, reusable, and efficient code. My goal is always to write code once and reuse it across the project to maintain consistency and make future updates easy and efficient. I pay close attention to UI/UX details, ensuring a smooth, engaging experience across all devices. I’m a Full Stack Developer and Project Lead with a strong focus on Frontend development and a detailed eye for creating seamless, user-friendly interfaces. My expertise spans Angular (v6 to v18), SvelteKit, React, Node.js, PHP, SQL, WordPress, Shopify Customization, WebFlow, and SquareUp.
+I believe in **writing clean**, reusable, and efficient code. My goal is always to write code once and reuse it across the project to maintain consistency and make future updates easy and efficient. I pay close attention to UI/UX details, ensuring a smooth, engaging experience across all devices. I’m a Full Stack Developer and Project Lead with a strong focus on Frontend development and a detailed eye for creating seamless, user-friendly interfaces. My expertise spans Angular (v6 to v18), SvelteKit, React, Node.js, PHP, SQL, WordPress, Shopify Customization, WebFlow, and SquareUp.
 
 
 # 💻 Tech Stack:
